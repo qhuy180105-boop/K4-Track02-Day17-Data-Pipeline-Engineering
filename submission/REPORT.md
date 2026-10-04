@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Nguyễn Quang Huy
 **Repo:** https://github.com/qhuy180105-boop/K4-Track02-Day17-Data-Pipeline-Engineering
-**Commit bài nộp:** HEAD
+**Commit bài nộp:** c1d6bb05929861a06f932d8337541d316a817683
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Antigravity AI — Hỗ trợ phân tích triệu chứng lỗi, kiểm thử pipeline, triển khai MERGE logic trong DuckDB, dbt microbatch và viết báo cáo.
 **Nguồn tham khảo khác (nếu có):** Slide bài giảng Day 17 Data Pipeline Engineering, dbt Core & DuckDB documentation.
 
